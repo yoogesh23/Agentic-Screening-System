@@ -1,0 +1,41 @@
+Principal Data Scientist - BFS
+Hyderabad
+Apply Now
+Job Description
+Job Title: Principal Data Scientist
+India Locations:  Hyderabad
+
+Who we are
+Tiger Analytics is a global leader in AI and analytics, helping Fortune 1000 companies solve their toughest challenges. We offer full-stack AI and analytics services & solutions to empower businesses to achieve real outcomes and value at scale. We are on a mission to push the boundaries of what AI and analytics can do to help enterprises navigate uncertainty and move forward decisively. Our purpose is to provide certainty to shape a better tomorrow.
+Our team of 4000+ technologists and consultants are based in the US, Canada, the UK, India, Singapore and Australia, working closely with clients across CPG, Retail, Insurance, BFS, Manufacturing, Life Sciences, and Healthcare. Many of our team leaders rank in Top 10 and 40 Under 40 lists, exemplifying our dedication to innovation and excellence.
+We are a Great Place to Work-Certified™ (2022-24), recognized by analyst firms such as Forrester, Gartner, HFS, Everest, ISG and others. We have been ranked among the ‘Best’ and ‘Fastest Growing’ analytics firms lists by Inc., Financial Times, Economic Times and Analytics India Magazine
+
+Curious about the role? What your typical day would look like?
+
+As a Principal Data Scientist, your work is a combination of hands-on contribution to Loreum Ipsum, Loreum Ipsum, etc. More specifically, this will involve:
+* Lead and contribute to developing sophisticated machine learning      models, predictive analytics, and statistical analyses to solve complex      business problems.
+* Demonstrate proficiency in programming languages such as Python or      R, with the ability to write clean, efficient, and maintainable code.      Experience with relevant libraries and frameworks (e.g., TensorFlow,      PyTorch, scikit-learn) is essential.
+* Use your robust problem-solving skills to develop data-driven      solutions, analyse complex datasets, and derive actionable insights that      lead to impactful outcomes.
+* Work closely with clients to understand their business objectives,      identify opportunities for analytics-driven solutions, and communicate      findings clearly and promptly.
+* Take ownership of end-to-end model development, from problem      definition and data exploration to model training, validation, and      deployment.
+* Collaborate with cross-functional teams, including data engineers,      software developers, and business stakeholders, to integrate analytics      solutions into business processes.
+* Leverage a profound understanding of mathematical and statistical      principles to guide developing and validating advanced data science      models.
+* Stay abreast of industry trends, emerging technologies, and best      practices in data science, bringing innovative ideas to the team and      contributing to continuous improvement.
+Desired Skills and Experience:
+* 8-10 years of total DS and model development experience
+* Mandatory : Minimum 4+ years of      experience in the Banking and Financial services industry
+* A passion for writing high-quality code (Python), and the code      should be modular, scalable, and end-end project execution while planning      an active hands-on role
+* Having good problem-solving skills is essential, and it is equally      important to have in-depth knowledge to solve complex problems      effectively.
+* Comprehensive knowledge of the regression and classification      concepts and mathematical backend along with SQL
+* Encourage collaboration with various stakeholders and take complete      ownership of deliverables.
+* Adept understanding of various data science approaches, machine      learning algorithms, and statistical methods.
+* Excellent communication skills with presentability, articulation,      storytelling capability, and ability to manage complex client situations
+* Effective mentoring of a team with expertise in      industry/domain/functional areas.
+
+
+You are important to us, let’s stay connected!
+Every individual comes with a different set of skills and qualities so even if you don’t tick all the boxes for the role today, we urge you to apply as there might be a suitable/unique role for you tomorrow. We are an equal opportunity employer. Our diverse and inclusive culture and values guide us to listen, trust, respect, and encourage people to grow the way they desire.
+
+Note: The designation will be commensurate with expertise and experience. Compensation packages are among the best in the industry.
+Additional Benefits: Health insurance (self & family), virtual wellness platform, and knowledge communities
+

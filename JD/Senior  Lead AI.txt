@@ -1,0 +1,44 @@
+Senior / Lead AI
+Chennai, Bangalore, Hyderabad
+Apply Now
+Job Description
+Title: Senior / Lead - AI
+Location: Chennai, Bangalore, Hyderabad
+
+Who we are
+
+Tiger Analytics is a global leader in AI and analytics, helping Fortune 1000 companies solve their toughest challenges. We offer full-stack AI and analytics services & solutions to empower businesses to achieve real outcomes and value at scale. We are on a mission to push the boundaries of what AI and analytics can do to help enterprises navigate uncertainty and move forward decisively. Our purpose is to provide certainty to shape a better tomorrow.
+Our team of 4000+ technologists and consultants are based in the US, Canada, the UK, India, Singapore and Australia, working closely with clients across CPG, Retail, Insurance, BFS, Manufacturing, Life Sciences, and Healthcare. Many of our team leaders rank in Top 10 and 40 Under 40 lists, exemplifying our dedication to innovation and excellence.
+We are a Great Place to Work-Certified™ (2022-25), recognized by analyst firms such as Forrester, Gartner, HFS, Everest, ISG and others. We have been ranked among the ‘Best’ and ‘Fastest Growing’ analytics firms lists by Inc., Financial Times, Economic Times and Analytics India Magazine.
+
+Curious about the role? What your typical day would look like?
+
+As an AI lead specializing in Generative AI, and Machine Learning Engineering (MLE), you will be at the forefront of AI innovation. Your role will involve designing, deploying, and operationalizing sophisticated models—including large language models (LLMs)—to solve complex business problems. You will work closely with cross-functional teams to create scalable, production-ready AI solutions that drive intelligent automation and creativity across industries.
+
+Your Key Responsibilities:
+
+? Generative AI, NLP & MLE: Design, develop, deploy, and scale advanced applications using Generative AI models (e.g., GPT, LLaMA, Mistral), NLP techniques, and MLE/MLOps best practices to solve business challenges and unlock new opportunities.
+? Model Customization & Fine-Tuning: Apply techniques such as LoRA, PEFT, and fine-tuning of LLMs to build domain-specific models aligned with business use cases, with a focus on making them deployable in real-world environments.
+? ML Engineering & Deployment: Implement end-to-end ML pipelines—including data preprocessing, model training, versioning, testing, and deployment—using tools like MLflow, Docker, Kubernetes, and CI/CD practices.
+? Innovative Problem Solving: Leverage cutting-edge AI and ML methodologies to solve practical business problems and deliver measurable results.
+? Scalable AI Solutions: Ensure robust deployment, monitoring, and retraining of models in production environments, working closely with data engineering and platform teams.
+? Data-Driven Insights: Conduct deep analysis of structured and unstructured data to uncover trends, guide decisions, and optimize AI models.
+? Cross-Functional Collaboration: Partner with Consulting, Engineering, and Platform teams to integrate AI/ML solutions into broader architectures and business strategies.
+? Client Engagement: Work directly with clients to understand requirements, present tailored AI solutions, and provide advisory on the adoption and operationalization of Generative AI and ML.
+Job Requirement
+· Overall 5-9 years of experience with real-time experience in GenAI and MLE/MLOps.
+· Expertise in Generative AI: Hands-on experience in designing and deploying LLM-based solutions with frameworks such as HuggingFace, LangChain, Transformers, etc.
+· MLE & Production Readiness: Proven experience in building ML models that are scalable, reliable, and production-ready, including exposure to MLE/MLOps workflows and tools.
+· Deployment Tools & Best Practices: Familiarity with containerization (Docker), orchestration (Kubernetes), model tracking (MLflow), and cloud platforms (AWS/GCP/Azure) for deploying AI solutions at scale.
+· Proficiency in development using Python frameworks (such as Django/Flask) or other similar technologies.
+· In-depth understanding of APIs, microservices architecture, and cloud-based deployment strategies.
+· Innovation & Curiosity: A passion for staying updated with the latest in Gen AI, LLMs, and ML engineering practices.
+· Communication: Ability to translate complex technical concepts into business-friendly insights and recommendations.
+
+You are important to us, let’s stay connected!
+Every individual comes with a different set of skills and qualities so even if you don’t tick all the boxes for the role today, we urge you to apply as there might be a suitable/unique role for you tomorrow. We are an equal-opportunity employer. Our diverse and inclusive culture and values guide us to listen, trust, respect, and encourage people to grow the way they desire.
+
+Note: The designation will be commensurate with expertise and experience. Compensation packages are among the best in the industry.
+
+Additional Benefits: Health insurance (self & family), virtual wellness platform, and knowledge communities.
+

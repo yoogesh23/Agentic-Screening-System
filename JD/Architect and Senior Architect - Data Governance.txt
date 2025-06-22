@@ -1,0 +1,39 @@
+Architect and Senior Architect - Data Governance
+Chennai, Bangalore, Hyderabad
+Apply Now
+Job Description
+As a Data Governance Architect, your work is a combination of hands-on contribution, customer engagement, and technical team
+management including assisting in getting new business. Overall, you?ll design, architect, deploy, and maintain big data-based data governance solutions.
+More specifically, this will involve:
+* Technical management across the full life cycle of data(structured/semi-sturctured/unstructured)-based data governance projects from requirement gathering and analysis to platform selection, design of the architecture, and deployment.
+* Scaling the solution in a cloud-based infrastructure or a non-cloud option and any custom configurations thereof.
+* Collaborating with business consultants, analysts, data scientists, senior data engineers, and developers to develop data solutions.
+* Exploring new technologies for creative business problem-solving and assisting in generating net new business
+* Leading and mentoring a team of data governance engineers
+What do we expect?
+* 10+ years of overall technical experience with any knowledge on technology around Python/GenAI (a plus)
+* 5+ years in in any Data Governance tool Solutions/implementations. can be alation/collibra/atlan/purview/unity catalog/others
+* Hands-on experience with Data Governance Solutions with a good understanding of the below
+* Data Catalog
+* Business Glossary
+* Business metadata, technical metadata, operational Metadata
+* Data Quality (IDQ/Anomalo/iceDQ/custom DQ APIs)
+* Data Profiling
+* Data Lineage
+* Automation on any of the above
+
+Job Requirement
+
+Expertise And Qualification
+* Hands-on experience with the following technologies:
+* awareness of working on a Azure/GCP/AWS environment(s)
+* Monte Carlo, Anomalo, Atlan, Collibra, Alation, IDQ, IDMC (CDQ & CDGC), Ataccama, Immuta,  Unity catalog, Securiti.ai,
+* Relevant Azure AWS/GCP components required to build data solutions
+* Good to know: Databricks, Snowflake,
+* Familiarity working with:
+* Designing/building large cloud-computing infrastructure solutions (in Azure/AWS/GCP)
+* Data Quality, Governance, metadata management (incl. catalog and lineage) design and implementation
+* Full life cycle of a data governance solution
+* Installation and admin of any of the tools above (a Plus)
+* Experience in building monitoring, dashboards debugging, and performance tuning
+

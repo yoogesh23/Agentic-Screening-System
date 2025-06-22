@@ -1,0 +1,45 @@
+Senior Lead NLP/Gen AI - Data and AI
+Chennai, Bangalore, Hyderabad
+Apply Now
+Job Description
+NLP Engineer – Data and AI
+
+Location: Chennai, Bengaluru, and Hyderabad
+Who we are?
+Tiger Analytics is a global leader in AI and analytics, helping Fortune 1000 companies solve their toughest challenges. We offer full-stack AI and analytics services & solutions to empower businesses to achieve real outcomes and value at scale. We are on a mission to push the boundaries of what AI and analytics can do to help enterprises navigate uncertainty and move forward decisively. Our purpose is to provide certainty to shape a better tomorrow.
+Our team of 4000+ technologists and consultants are based in the US, Canada, the UK, India, Singapore and Australia, working closely with clients across CPG, Retail, Insurance, BFS, Manufacturing, Life Sciences, and Healthcare. Many of our team leaders rank in Top 10 and 40 Under 40 lists, exemplifying our dedication to innovation and excellence.
+We are a Great Place to Work-Certified™ (2022-24), recognized by analyst firms such as Forrester, Gartner, HFS, Everest, ISG and others. We have been ranked among the ‘Best’ and ‘Fastest Growing’ analytics firms lists by Inc., Financial Times, Economic Times and Analytics India Magazine.
+Curious about the role? What your typical day would look like?
+· We’re seeking a motivated and enthusiastic NLP practitioner to contribute to solving complex problems for our clients. In this role, you will work on internal product development and support client-focused projects, with exposure to the pharma domain being a plus. You'll collaborate with experienced team members and learn to create impactful AI solutions while optimizing and developing GenAI applications. Your responsibilities will include:
+· Supporting the design, development, and deployment of GenAI solutions, learning to address challenges like hallucinations, bias, and latency, while contributing to performance and reliability improvements.
+· Collaborating with both internal teams and external stakeholders, particularly in the pharma space, to understand business requirements and contribute to the development of tailored AI-powered systems.
+· Assisting in the full lifecycle of AI project delivery, including ideation, model fine-tuning, deployment, and performance monitoring under the guidance of senior team members.
+· Learning and applying fine-tuning techniques (such as LoRA, PEFT) to Large Language Models (LLMs) for specific business needs.
+· Assisting in the development of scalable pipelines for AI model deployment, including handling error management, monitoring, and retraining strategies.
+· Actively participating in a collaborative environment, sharing ideas and working as part of a dynamic team of data scientists and AI engineers.
+Job Requirement
+Who do we expect?
+Key Responsibilities:
+* Design, develop, and deploy NLP & Generative AI solutions, leveraging Large Language Models (LLMs), fine-tuning techniques, and AI-powered automation.
+* Lead research and implementation of advanced NLP techniques, including transformers, embeddings, retrieval-augmented generation (RAG), and multi-modal models.
+* Architect scalable NLP pipelines for text processing, entity recognition, summarization, question answering, and conversational AI.
+* Develop and optimize LLM-powered chatbots, virtual assistants, and AI agents, ensuring efficiency, accuracy, and contextual awareness.
+* Implement Agentic AI systems, enabling autonomous workflows powered by LLMs and task orchestration frameworks.
+* Ensure LLM observability and guardrails, enhancing model monitoring, safety, fairness, and compliance in production environments.
+* Optimize inference pipelines, leveraging quantization, model distillation, and retrieval-enhanced generation to improve performance and cost efficiency.
+* Lead MLOps initiatives, including CI/CD pipelines, containerization (Docker, Kubernetes), and cloud deployments (AWS, GCP, Azure).
+* Collaborate with cross-functional teams to integrate NLP & GenAI solutions into enterprise applications, ensuring robust API development and scalable microservices architecture.
+* Mentor junior engineers, drive best practices in NLP/AI model development, and contribute to AI governance in regulated industries like pharma/life sciences.
+Key Qualifications:
+* 7-9 years of experience in NLP, AI/ML, or data science, with a proven track record of delivering production-grade NLP & GenAI solutions.
+* Deep expertise in LLMs, transformer architectures (BERT, GPT, T5, LLaMA, Mistral, etc.), and fine-tuning techniques.
+* Strong knowledge of NLP pipelines, including text preprocessing, tokenization, embeddings, and named entity recognition (NER).
+* Experience with retrieval-augmented generation (RAG), vector databases (FAISS, Pinecone, Chroma), and prompt engineering.
+* Hands-on experience with Agentic AI systems, LLM observability tools, and AI safety guardrails.
+* Proficiency in Python and backend development (Django/Flask preferred), with strong API and microservices expertise.
+* Familiarity with MLOps, cloud platforms (AWS, GCP, Azure), and scalable model deployment strategies.
+* Prior experience in life sciences, pharma, or other regulated industries is a plus.
+* A problem-solving mindset with the ability to work independently, drive innovation, and mentor junior engineers.
+· Note: The designation will be commensurate with expertise and experience. Compensation packages are among the best in the industry.
+· Additional Benefits: Health insurance (self & family), virtual wellness platform, and knowledge communities.
+

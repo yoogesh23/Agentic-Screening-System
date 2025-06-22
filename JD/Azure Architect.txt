@@ -1,0 +1,51 @@
+Azure Architect
+Chennai, Hyderabad, Bangalore
+Apply Now
+Job Description
+Who we are?
+
+Tiger Analytics is a global leader in AI and analytics, helping Fortune 1000 companies solve their
+toughest challenges. We offer full-stack AI and analytics services and solutions to empower
+businesses to achieve real outcomes and value at scale. We are on a mission to push the
+boundaries of what AI and analytics can do to help enterprises navigate uncertainty and move
+forward decisively. Our purpose is to provide certainty to shape a better tomorrow.
+
+Our team of 6000+ technologists and consultants are based in the US, Canada, the UK, India,
+Singapore and Australia, working closely with clients across CPG, Retail, Insurance, BFS,
+Manufacturing, Life Sciences, and Healthcare. Many of our team leaders rank in Top 10 and 40
+Under 40 lists, exemplifying our dedication to innovation and excellence.
+
+We are a Great Place to Work-Certified™, recognized by analyst firms such as Forrester,
+Gartner, HFS, Everest, ISG and others. We have been ranked among the ‘Best’ and ‘Fastest
+Growing’ analytics firms lists by Inc., Financial Times, Economic Times and Analytics India
+Magazine.
+
+Role Overview:
+
+We are looking for experienced Databricks Architects / Senior Databricks Architects to join our teams in Chennai, Bangalore, or Hyderabad. In this role, you will lead the architecture, design, and delivery of modern data platforms—including Data Lakes, Lakehouses, and Data Mesh—using Azure and Databricks. This is a hybrid role involving hands-on development, customer engagement, and technical leadership, where you will collaborate across teams to drive scalable and innovative data solutions end-to-end.
+
+Key Responsibilities:
+* Architect and implement data solutions leveraging Azure and the Databricks ecosystem.
+* Own the complete lifecycle of data platform implementations—from requirements gathering and platform selection to architecture design and deployment.
+* Work closely with data scientists, application developers, and business stakeholders to deliver enterprise-grade data solutions.
+* Continuously explore emerging technologies to solve business problems creatively.
+* Mentor and guide a team of data engineers, promoting best practices and innovation.
+* Contribute to broader organizational initiatives including capability building, solution development, talent acquisition, and industry events.
+
+Job Requirement
+
+* 10+ years of overall technical experience with at least 4 years working hands-on with Microsoft Azure and Databricks.
+* Experience of leading at least 2 end to end Data Lakehouse project on Azure Databricks involving Medallion Architecture.
+* Deep expertise in the Databricks ecosystem, including: PySpark, Notebooks, Unity Catalog, Delta Live Tables, Workflows, SQL Warehouse, Mosaic AI, AI/BI Genie.
+* Hands-on experience building modern data platforms on Azure using tools and services such as: Azure Databricks, Azure Data Factory, ADLS Gen2, SQL Database, Microsoft Fabric, Event Hub, Stream Analytics, Cosmos DB, Azure Purview, Log Analytics, and Azure Explorer.
+* Experience of designing and developing metadata-driven frameworks (relevant for Data Engineering processes).
+* Strong programming, debugging, and performance tuning skills in Python and SQL.
+* Good Experience of Data modeling (both Dimensional and 3-NF)
+* Good Exposure to developing LLM/GenAI-powered applications.
+* Sound understanding of CI/CD processes using Git and Jenkins or Azure DevOps.
+* Familiarity with big data platforms such as Cloudera (CDH) or Hortonworks (HDP) is a plus.
+* Exposure to technologies like Neo4j, Elasticsearch, and vector databases is desirable.
+* Bonus: Experience with Azure infrastructure provisioning, networking, security, and governance.
+Educational Background:
+* Bachelor’s degree (B.E/B.Tech) in Computer Science, Information Technology, or a related field from a reputed institute (preferred).
+

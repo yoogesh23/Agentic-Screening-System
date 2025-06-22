@@ -1,0 +1,72 @@
+Senior / Lead MLE - MLOps (DevOps)
+Chennai, Bangalore, Hyderabad
+Apply Now
+Job Description
+MLOPS Lead-
+Senior ML Engineer
+As a Senior MLOps Engineer, the role requires hands-on experience in building and managing ML
+Systems in Production with excellent MLOPS Skill sets. The position would be responsible for
+building machine learning pipelines and ML Application services and providing machine learning
+engineering support for Production teams .
+This role operates at the crossroads of Machine Learning, Software/Data Engineering, and DevOps,
+leveraging best practices from each domain to optimize the deployment and management of
+machine learning models in production environments.
+The Position would also be expected to be able to enhance the Technology stack, focusing on
+continuous improvements in the reliability, automation and efficiency of the Platform Solutions.
+Roles and responsibilities
+
+? Manage ML Platform infrastructure to automate and accelerate model development and
+deployment
+? Define and build scalable ML pipelines that enables data scientists to build better models
+? Build dashboards and other Monitoring tools to optimize performance and Infrastructure
+Costs
+? Monitor and provide support to infrastructure and in production systems
+? Identify possible issues and performance leakages in the system and perform optimization
+? Mentoring team members through code review and knowledge sharing
+? Lead, mentor, and manage a team of Mlops engineers, fostering a collaborative and high-
+performance environment.
+? Oversee the team’s project management, ensuring timely and successful delivery of data
+solutions.
+? Design, develop, and maintain data science models and algorithms along with the DS team
+to drive business insights and decision-making onto the ML Platforms
+? Implement and manage CI/CD pipelines of Core Solution Packages and Applications
+? Containerize applications and workflows using Docker and App Service for consistent
+environments and deployment.
+? Work closely with various teams, including data science, engineering, and business units, to
+align ML Platform Solution with client goals.
+? Facilitate communication and collaboration between team members and other departments
+to ensure cohesive project execution.
+? Provide technical support and insights to cross-functional teams as needed.
+? Ensure ML systems comply with security standards and best practices in a cloud
+environment.
+? Identify and address technical debt in current ML projects, incorporating best MLOps
+practices.
+
+Preferred Experience
+
+? 8 + years of hands-on experience at scale in data science / ML engineering
+? Excellent hands on skills to write clean and structured SQL, Python and Shell programs
+? Good experience with infrastructure, including Cloud Computing, Linux OS, Networks,
+Kubenetes, Docker, Infrastructure as Code, RDBMS and NoSQL Databases
+? Good understanding of Machine learning concepts and MLops Best practices.
+? Quality experience in serving real-time, production-level machine learning models
+? Proven experience leading and Managing a team
+? Excellent communication skills
+? 5+ years hands-on experience with Azure Cloud Technologies such as Azure
+Databricks, Azure DevOps, Azure App Service, Docker, Azure Key Vault, and other
+managed Azure services.
+? Proficient in AWS technologies, including Athena, Glue, ECS, EKS, and VPC, as well as AWS
+SageMaker for deploying machine learning models, improving automation, and
+implementing essential checks.
+? Proficiency in Python for developing automation Scripts, and Pipelines
+? Familiarity with Infrastructure as Code (IaC) tools such as Terraform or AWS
+CloudFormation for managing cloud infrastructure.
+? Basic Familiarity with the Data Science and Machine Learning lifecycle, as well as
+frameworks like scikit-learn, PyTorch, and TensorFlow.
+
+You are important to us, let’s stay connected!
+Every individual comes with a different set of skills and qualities so even if you don’t tick all the boxes for the role today, we urge you to apply as there might be a suitable/unique role for you tomorrow.
+We are an equal-opportunity employer. Our diverse and inclusive culture and values guide us to listen, trust, respect, and encourage people to grow the way they desire.
+Note: The designation will be commensurate with expertise and experience. Compensation packages are among the best in the industry.
+Additional Benefits: Health insurance (self & family), virtual wellness platform, and knowledge communities.
+

@@ -1,0 +1,31 @@
+Senior Data Scientist / Lead Data Scientist - NLP /GenAI
+Chennai, Bangalore, Hyderabad
+Apply Now
+Job Description
+Job Title : Senior/ Lead Data Scientist - NLP/Gen AI
+Location :  Chennai, Bangalore, Hyderabad
+
+Who we are
+Tiger Analytics is a global leader in AI and analytics, helping Fortune 1000 companies solve their toughest challenges. We offer full-stack AI and analytics services & solutions to empower businesses to achieve real outcomes and value at scale. We are on a mission to push the boundaries of what AI and analytics can do to help enterprises navigate uncertainty and move forward decisively. Our purpose is to provide certainty to shape a better tomorrow.
+Our team of 4000+ technologists and consultants are based in the US, Canada, the UK, India, Singapore and Australia, working closely with clients across CPG, Retail, Insurance, BFS, Manufacturing, Life Sciences, and Healthcare. Many of our team leaders rank in Top 10 and 40 Under 40 lists, exemplifying our dedication to innovation and excellence.
+We are a Great Place to Work-Certified™ (2022-24), recognized by analyst firms such as Forrester, Gartner, HFS, Everest, ISG and others. We have been ranked among the ‘Best’ and ‘Fastest Growing’ analytics firms lists by Inc., Financial Times, Economic Times and Analytics India Magazine
+Curious about the role? What your typical day would look like?
+As a Data Scientist specializing in Generative AI and NLP, you will be at the forefront of AI innovation. Your role will involve designing and deploying sophisticated models, including large language models (LLMs), to solve complex business problems. You will work closely with cross-functional teams to create scalable, data-driven solutions that bring AI-driven creativity and intelligence to life across various industries.
+* Generative AI & NLP Development: Design, develop, and deploy advanced applications and solutions using Generative AI models (e.g., GPT, LLaMA, Mistral) and NLP algorithms to solve business challenges and unlock new opportunities for our clients.
+* Model Customization & Fine-Tuning: Apply state-of-the-art techniques like LoRA, PEFT, and fine-tuning of large language models to adapt solutions to specific use cases, ensuring high relevance and impact.
+* Innovative Problem Solving: Leverage advanced AI methodologies to tackle real-world business problems, providing creative and scalable AI-powered solutions that drive measurable results.
+* Data-Driven Insights: Conduct deep analysis of large datasets, uncovering insights and trends that guide decision-making, improve operational efficiencies, and fuel innovation.
+* Cross-Functional Collaboration: Work closely with Consulting, Engineering, and other teams to integrate AI solutions into broader business strategies, ensuring the seamless deployment of AI-powered applications.
+* Client Engagement: Collaborate with clients to understand their unique business needs, provide tailored AI solutions, and educate them on the potential of Generative AI to drive business transformation.
+What do we expect?
+* Generative AI & NLP Expertise: Extensive experience in developing and deploying Generative AI applications and NLP frameworks, with hands-on knowledge of LLM fine-tuning, model customization, and AI-powered automation.
+* Hands-On Data Science Experience: 6+ years of experience in data science, with a proven ability to build and operationalize machine learning and NLP models in real-world environments.
+* AI Innovation: Deep knowledge of the latest developments in Generative AI and NLP, with a passion for experimenting with cutting-edge research and incorporating it into practical solutions.
+* Problem-Solving Mindset: Strong analytical skills and a solution-oriented approach to applying data science techniques to complex business problems.
+* Communication Skills: Exceptional ability to translate technical AI concepts into business insights and recommendations for non-technical stakeholders.
+You are important to us, let’s stay connected!
+Every individual comes with a different set of skills and qualities so even if you don’t tick all the boxes for the role today, we urge you to apply as there might be a suitable/unique role for you tomorrow. We are an equal opportunity employer. Our diverse and inclusive culture and values guide us to listen, trust, respect, and encourage people to grow the way they desire.
+
+Note: The designation will be commensurate with expertise and experience. Compensation packages are among the best in the industry.
+Additional Benefits: Health insurance (self & family), virtual wellness platform, and knowledge communities
+
